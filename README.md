@@ -41,4 +41,6 @@ export class Pond {
 export class Food {
   ...
 }
+
+export { Duck, Pond, Food }
 ``` 
